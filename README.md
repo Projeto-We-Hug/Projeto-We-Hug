@@ -7,7 +7,7 @@ O preconceito é responsável por diversos danos às suas vítimas. Em nossa soc
 WeHug é o projeto de uma rede social com o intuito de promover discussões a respeito do tema preconceito, gerando interações por meio de fóruns, oferecendo um acolhimento às vitimas dessas violências, e possibilitando discussões e disseminação de informações que tenham a potência de modificar essa realidade.
 
 
-<h3 align="left">Linguagens e ferramentas</h3>
+## Linguagens e ferramentas
 <div style="display: inline_block; padding-right:100">
 <a href="https://www.java.com" target="_blank" title="Java"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/></a> 
 <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a> 
